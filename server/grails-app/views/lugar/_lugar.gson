@@ -1,0 +1,11 @@
+import agenda.react.Lugar
+
+model{
+    Lugar lugar
+}
+
+json{
+    id lugar?.id
+    nome lugar?.nome
+    capacidade lugar?.capacidade
+}

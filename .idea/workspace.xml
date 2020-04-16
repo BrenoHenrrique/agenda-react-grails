@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8feb0971-9cc4-4e7f-ae6b-1dc56b19c4c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZOalVcs849fDwd65exODkz5l53" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/DellVermelho/Documents/workspace intellij/Agenda-React/client/src/index.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587013916809" />
+    <property name="dynamic.classpath" value="true" />
+    <property name="grails.last.selected.app.url" value="file://$PROJECT_DIR$/server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Breno\Documents\workshop\Agenda-React-master\client\src\components\others" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Breno\Documents\workshop\Agenda-React-master\client\src\components\evento" />
+      <recent name="C:\Users\DellVermelho\Documents\GitHub\Agenda-React\client\src\components\lugar" />
+      <recent name="C:\Users\DellVermelho\Documents\GitHub\Agenda-React\client\src\components\evento" />
+      <recent name="C:\Users\DellVermelho\Documents\GitHub\Agenda-React\client\src\css" />
+      <recent name="C:\Users\DellVermelho\Documents\workspace intellij\Agenda-React\client\src\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Grails.Grails: server">
+    <configuration name="Agenda-React [bootRun]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Grails: server" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="$PROJECT_DIR$/server" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.Agenda-React [bootRun]" />
+      <item itemvalue="Grails.Grails: server" />
+    </list>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Breno\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8feb0971-9cc4-4e7f-ae6b-1dc56b19c4c2" name="Default Changelist" comment="" />
+      <created>1583530051008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583530051008</updated>
+      <workItem from="1583530054751" duration="557000" />
+      <workItem from="1583531229260" duration="236000" />
+      <workItem from="1583771408703" duration="1007000" />
+      <workItem from="1583772929728" duration="10633000" />
+      <workItem from="1583786133438" duration="4324000" />
+      <workItem from="1583856483961" duration="20219000" />
+      <workItem from="1583943203498" duration="3963000" />
+      <workItem from="1583948736894" duration="14859000" />
+      <workItem from="1584037675928" duration="2580000" />
+      <workItem from="1584041133737" duration="4905000" />
+      <workItem from="1584046257206" duration="3777000" />
+      <workItem from="1584116028962" duration="19858000" />
+      <workItem from="1584362000982" duration="15234000" />
+      <workItem from="1584378558308" duration="4502000" />
+      <workItem from="1584547948703" duration="18942000" />
+      <workItem from="1584718223151" duration="18102000" />
+      <workItem from="1584893974189" duration="5140000" />
+      <workItem from="1584978492504" duration="22168000" />
+      <workItem from="1585021886982" duration="1971000" />
+      <workItem from="1585064558237" duration="18594000" />
+      <workItem from="1585084118800" duration="1562000" />
+      <workItem from="1585085808231" duration="1568000" />
+      <workItem from="1585088884445" duration="690000" />
+      <workItem from="1585180671585" duration="1514000" />
+      <workItem from="1585237054836" duration="5028000" />
+      <workItem from="1585858852222" duration="334000" />
+      <workItem from="1586284600584" duration="120000" />
+      <workItem from="1586293262781" duration="48000" />
+      <workItem from="1586293437241" duration="46000" />
+      <workItem from="1586363958706" duration="481000" />
+      <workItem from="1586365087056" duration="106000" />
+      <workItem from="1586366624262" duration="11643000" />
+      <workItem from="1586447423315" duration="14383000" />
+      <workItem from="1586791759519" duration="19419000" />
+      <workItem from="1586879544502" duration="14719000" />
+      <workItem from="1586965828539" duration="135000" />
+      <workItem from="1586971010678" duration="2465000" />
+      <workItem from="1586976707299" duration="8111000" />
+      <workItem from="1587010258780" duration="3214000" />
+      <workItem from="1587052145798" duration="121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TraitInjectorService">
+    <option name="state">
+      <map>
+        <entry key="server_main">
+          <value>
+            <StateHolder>
+              <option name="knownFactories">
+                <list>
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web/3.3.5/db0eb1e480accfe0cc1205a51aba0baad1f39588/grails-web-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-codecs/3.3.5/17d86b4a21b9146e3e3b4bd8f9bccf0d7a7e2fbe/grails-plugin-codecs-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/converters/3.3.1/afc1ea5fa7d7d52e83017856fa5a651d38145048/converters-3.3.1.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-domain-class/3.3.5/874a96c80b6ab4ebb34f61cfc4fb17edaf6a9640/grails-plugin-domain-class-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-taglib/3.3.1/ca323146797a4ff2bb4f630890f4c400a0860395/grails-web-taglib-3.3.1.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.3.5/3fac37aef348f80c302e89958258432a928011fb/grails-web-url-mappings-3.3.5.jar!/META-INF/services/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-validation/3.3.5/d98e5f0fe2b7df929f68fa336332ac8b6f03834c/grails-validation-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-rest/3.3.5/225fd803f4047cf880ec8c16227f38fa0e53d630/grails-plugin-rest-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-databinding/3.3.5/7f2613bfa271bf5489b33112363daaa238b75fee/grails-web-databinding-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-interceptors/3.3.5/418b6584c2c9ab486ddf8820da7ae2c1efed2cfb/grails-plugin-interceptors-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/3.3.5/654e1420497c21506596f63655901174df47c6de/grails-plugin-controllers-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.3.5/3fac37aef348f80c302e89958258432a928011fb/grails-web-url-mappings-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/hibernate5/6.1.9/3ad17a7ecdc78dd76624439ded9fb92c675dbc38/hibernate5-6.1.9.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-services/3.3.5/5cbba2e186c8ca351fe30eef52b525fd7c68f4f8/grails-plugin-services-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-taglib/3.3.1/772e8b5f992f6602cab07c7a58ab2924f97eed02/grails-taglib-3.3.1.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-common/3.3.5/148d0719ca6a20897ad1ad57951af3b62fbf252/grails-web-common-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-support/6.1.9.RELEASE/fc05459427731c62210c061610346a45ea8dd1df/grails-datastore-gorm-support-6.1.9.RELEASE.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/3.3.5/8044ecc48da9a8427953ffb1b7fe0a169b5b75eb/grails-core-3.3.5.jar!/META-INF/grails.factories" />
+                </list>
+              </option>
+            </StateHolder>
+          </value>
+        </entry>
+        <entry key="server_test">
+          <value>
+            <StateHolder>
+              <option name="knownFactories">
+                <list>
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web/3.3.5/db0eb1e480accfe0cc1205a51aba0baad1f39588/grails-web-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-codecs/3.3.5/17d86b4a21b9146e3e3b4bd8f9bccf0d7a7e2fbe/grails-plugin-codecs-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/converters/3.3.1/afc1ea5fa7d7d52e83017856fa5a651d38145048/converters-3.3.1.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-domain-class/3.3.5/874a96c80b6ab4ebb34f61cfc4fb17edaf6a9640/grails-plugin-domain-class-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-taglib/3.3.1/ca323146797a4ff2bb4f630890f4c400a0860395/grails-web-taglib-3.3.1.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.3.5/3fac37aef348f80c302e89958258432a928011fb/grails-web-url-mappings-3.3.5.jar!/META-INF/services/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/3.3.5/654e1420497c21506596f63655901174df47c6de/grails-plugin-controllers-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-validation/3.3.5/d98e5f0fe2b7df929f68fa336332ac8b6f03834c/grails-validation-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-rest/3.3.5/225fd803f4047cf880ec8c16227f38fa0e53d630/grails-plugin-rest-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-databinding/3.3.5/7f2613bfa271bf5489b33112363daaa238b75fee/grails-web-databinding-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-interceptors/3.3.5/418b6584c2c9ab486ddf8820da7ae2c1efed2cfb/grails-plugin-interceptors-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/gsp/3.3.1/7b40598abe73d8535b2dd4503467d5c0c415b7b5/gsp-3.3.1.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.3.5/3fac37aef348f80c302e89958258432a928011fb/grails-web-url-mappings-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/hibernate5/6.1.9/3ad17a7ecdc78dd76624439ded9fb92c675dbc38/hibernate5-6.1.9.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-services/3.3.5/5cbba2e186c8ca351fe30eef52b525fd7c68f4f8/grails-plugin-services-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-taglib/3.3.1/772e8b5f992f6602cab07c7a58ab2924f97eed02/grails-taglib-3.3.1.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-common/3.3.5/148d0719ca6a20897ad1ad57951af3b62fbf252/grails-web-common-3.3.5.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-support/6.1.9.RELEASE/fc05459427731c62210c061610346a45ea8dd1df/grails-datastore-gorm-support-6.1.9.RELEASE.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/3.3.5/8044ecc48da9a8427953ffb1b7fe0a169b5b75eb/grails-core-3.3.5.jar!/META-INF/grails.factories" />
+                </list>
+              </option>
+            </StateHolder>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="93" key="#Inspections" timestamp="1586977597222">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="392" y="93" key="#Inspections/0.0.1600.870@0.0.1600.870" timestamp="1586977597222" />
+    <state x="392" y="93" key="#Project_Structure" timestamp="1586808661056">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="392" y="93" key="#Project_Structure/0.0.1600.870@0.0.1600.870" timestamp="1586808661056" />
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586450860590">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.870@0.0.1600.870" timestamp="1586450860590" />
+    <state x="568" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586794213955">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="568" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.870@0.0.1600.870" timestamp="1586794213955" />
+    <state x="480" y="163" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586372154505">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="480" y="163" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.870@0.0.1600.870" timestamp="1586372154505" />
+    <state x="530" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585023373984">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="530" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.870@0.0.1600.870" timestamp="1585023373984" />
+    <state width="411" height="466" key="DebuggerActiveHint" timestamp="1585081776588">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="411" height="466" key="DebuggerActiveHint/0.0.1600.870@0.0.1600.870" timestamp="1585081776588" />
+    <state x="580" y="190" key="FileChooserDialogImpl" timestamp="1586896907853">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="580" y="190" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1586896907853" />
+    <state x="13" y="419" width="1528" height="140" key="GridCell.Tab.-1.bottom" timestamp="1584719061428">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="13" y="419" width="1528" height="140" key="GridCell.Tab.-1.bottom/0.0.1600.870@0.0.1600.870" timestamp="1584719061428" />
+    <state x="13" y="419" width="1528" height="140" key="GridCell.Tab.-1.center" timestamp="1584719061428">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="13" y="419" width="1528" height="140" key="GridCell.Tab.-1.center/0.0.1600.870@0.0.1600.870" timestamp="1584719061428" />
+    <state x="13" y="419" width="1528" height="140" key="GridCell.Tab.-1.left" timestamp="1584719061428">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="13" y="419" width="1528" height="140" key="GridCell.Tab.-1.left/0.0.1600.870@0.0.1600.870" timestamp="1584719061428" />
+    <state x="13" y="419" width="1528" height="140" key="GridCell.Tab.-1.right" timestamp="1584719061428">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="13" y="419" width="1528" height="140" key="GridCell.Tab.-1.right/0.0.1600.870@0.0.1600.870" timestamp="1584719061428" />
+    <state width="1557" height="192" key="GridCell.Tab.0.bottom" timestamp="1586984906427">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="192" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1586984906427" />
+    <state width="1557" height="192" key="GridCell.Tab.0.center" timestamp="1586984906427">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="192" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1586984906427" />
+    <state width="1557" height="192" key="GridCell.Tab.0.left" timestamp="1586984906427">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="192" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1586984906427" />
+    <state width="1557" height="192" key="GridCell.Tab.0.right" timestamp="1586984906427">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="192" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1586984906427" />
+    <state x="0" y="730" width="1557" height="192" key="GridCell.Tab.1.bottom" timestamp="1586984906427">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="0" y="730" width="1557" height="192" key="GridCell.Tab.1.bottom/0.0.1600.870@0.0.1600.870" timestamp="1586984906427" />
+    <state x="0" y="730" width="1557" height="192" key="GridCell.Tab.1.center" timestamp="1586984906427">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="0" y="730" width="1557" height="192" key="GridCell.Tab.1.center/0.0.1600.870@0.0.1600.870" timestamp="1586984906427" />
+    <state x="0" y="730" width="1557" height="192" key="GridCell.Tab.1.left" timestamp="1586984906427">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="0" y="730" width="1557" height="192" key="GridCell.Tab.1.left/0.0.1600.870@0.0.1600.870" timestamp="1586984906427" />
+    <state x="0" y="730" width="1557" height="192" key="GridCell.Tab.1.right" timestamp="1586984906427">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="0" y="730" width="1557" height="192" key="GridCell.Tab.1.right/0.0.1600.870@0.0.1600.870" timestamp="1586984906427" />
+    <state x="380" y="178" key="IDE.errors.dialog" timestamp="1586980252725">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="380" y="178" key="IDE.errors.dialog/0.0.1600.870@0.0.1600.870" timestamp="1586980252725" />
+    <state x="301" y="77" key="SettingsEditor" timestamp="1587052304593">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="301" y="77" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1587052304593" />
+    <state x="92" y="92" width="1416" height="686" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586882293621">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="92" y="92" width="1416" height="686" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.870@0.0.1600.870" timestamp="1586882293621" />
+    <state x="495" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1586366699078">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="495" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.870@0.0.1600.870" timestamp="1586366699078" />
+    <state x="617" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586807588400">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="617" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.870@0.0.1600.870" timestamp="1586807588400" />
+    <state x="362" y="171" width="876" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584718969560">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="362" y="171" width="876" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.870@0.0.1600.870" timestamp="1584718969560" />
+    <state x="13" y="419" width="1544" height="207" key="dock-window-1" timestamp="1584719079248">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="13" y="419" width="1544" height="207" key="dock-window-1/0.0.1600.870@0.0.1600.870" timestamp="1584719079248" />
+    <state x="432" y="0" width="736" height="870" key="find.popup" timestamp="1585069435843">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="432" y="0" width="736" height="870" key="find.popup/0.0.1600.870@0.0.1600.870" timestamp="1585069435843" />
+    <state x="182" y="137" key="new project wizard" timestamp="1586364444196">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="182" y="137" key="new project wizard/0.0.1600.870@0.0.1600.870" timestamp="1586364444196" />
+    <state x="441" y="161" width="700" height="530" key="recent.locations.popup" timestamp="1586799914474">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="441" y="161" width="700" height="530" key="recent.locations.popup/0.0.1600.870@0.0.1600.870" timestamp="1586799914474" />
+    <state x="456" y="198" key="run.anything.popup" timestamp="1586803624020">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="456" y="198" key="run.anything.popup/0.0.1600.870@0.0.1600.870" timestamp="1586803624020" />
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1586796821882">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1600.870@0.0.1600.870" timestamp="1586796821882" />
+    <state x="617" y="197" key="svn.repositoryBrowser" timestamp="1585085923888">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="617" y="197" key="svn.repositoryBrowser/0.0.1600.870@0.0.1600.870" timestamp="1585085923888" />
+    <state x="623" y="340" key="svn.upgradeDialog" timestamp="1585240526541">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="623" y="340" key="svn.upgradeDialog/0.0.1600.870@0.0.1600.870" timestamp="1585240526541" />
+    <state x="575" y="311" key="svn4idea.checkout.options" timestamp="1585240516781">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="575" y="311" key="svn4idea.checkout.options/0.0.1600.870@0.0.1600.870" timestamp="1585240516781" />
+  </component>
+</project>

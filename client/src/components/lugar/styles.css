@@ -1,0 +1,54 @@
+.tabela {
+    padding: 10px;
+}
+
+.tabela strong {
+    margin-top: 140px;
+    color: #666;
+    font-size: 19px;
+}
+
+table {
+    width: 100%;
+    margin-top: 30px;
+}
+table tr {
+    padding-left: 0px;
+}
+
+table th {
+    background: #eee;
+    text-align: left;
+    padding-left: 10px;
+    font-weight: 700;
+    color: #666;
+    font-weight: bold;
+    font-size: 18px;
+    border-width: 0px;
+}
+
+table tr:hover {
+    background: #E1F2B6;
+}
+
+table td {
+    padding: 8px 10px;
+    font-size: 17px;
+}
+
+table a {
+    color: #48802C;
+    padding-right: 10px;
+
+}
+
+.pesquisa input{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+
+.pesquisa button {
+    margin-left: 10px;
+}

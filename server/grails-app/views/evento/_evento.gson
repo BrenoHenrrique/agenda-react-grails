@@ -1,0 +1,13 @@
+import agenda.react.Evento
+
+model{
+    Evento evento
+}
+
+json{
+    id evento?.id
+    version evento?.version
+    diaEvento evento?.diaEvento
+
+    lugarEvento tmpl."/lugar/lugar"(evento?.lugarEvento)
+}

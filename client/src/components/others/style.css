@@ -1,0 +1,14 @@
+p {
+    position: relative;
+    margin-left: 35%;
+    margin-right: 25%;
+    margin-top: 23%;
+    color: #666;
+    font-size: 19px;
+}
+
+@media (max-width: 1200px) {
+    p{
+        font-size: 17px;
+    }
+}
